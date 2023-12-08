@@ -1,1 +1,3 @@
 # aula15DEZ
+
+Em um repositório, a ramificação permite trabalhar simultaneamente em diferentes versões do projeto. A principal, chamada de "main", é a versão definitiva. Ao criar uma nova ramificação, você essencialmente faz uma cópia do "main" naquele momento. Isso possibilita realizar alterações independentes sem interferir no projeto principal. Se houver modificações na "main" enquanto você trabalha na sua cópia, é possível integrar essas atualizações. Essa abordagem facilita o desenvolvimento colaborativo, permitindo que vários colaboradores trabalhem em funcionalidades ou correções de bugs separadamente, antes de unificar suas contribuições no projeto principal. Essa prática ajuda a evitar conflitos e a manter um histórico claro das alterações.
